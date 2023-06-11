@@ -18,3 +18,4 @@ Website for my thoughts
  - original thought. Original thought is thought that a human has about the real world that is not in the thoughts of other humans that the original thinker is aware of. is original thought as simple as providing a new perspective to a feeling.
  - feelings cannot be represented by words. feelings can only be communicated by making the other human feel them too.
  - is the the ability to understand multiple perspectives or to quickly drop one thought move to another then back to the furst thought a consequence of deep awareness or is it a capability that some brains have and others do not?
+ - romantic relationships. i want someone who understands the world and themsleves. they have to know what they want. they have to be able to understand human wants
