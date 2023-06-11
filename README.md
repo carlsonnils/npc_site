@@ -3,12 +3,13 @@ Website for my thoughts.
 
 # Table of Contents
 1. [Enviornment](#enviornment)
+2. [Writing Ideas](#writing-ideas)
 
 ## Eviornment <a name="enviornment"></a>
 
 
 
-### Intial Blog Ideas
+## Intial Blog Ideas <a name="writing-ideas"></a>
  - Humans need true recognition
  - Everything is connected at the fundamental level
  - Different "Academic Areas" are different ways of trying to understand the same thing
