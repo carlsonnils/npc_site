@@ -9,7 +9,7 @@ Website for my thoughts.
 
 
 
-## Intial Blog Ideas <a name="writing-ideas"></a>
+## Writing Ideas <a name="writing-ideas"></a>
  - Humans need true recognition
  - Everything is connected at the fundamental level
  - Different "Academic Areas" are different ways of trying to understand the same thing
