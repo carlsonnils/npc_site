@@ -14,4 +14,6 @@ Website for my thoughts
  - Real human wants get lost in the mess of memories and reality. living in the now you can feel real wants and needs. 
  - Complete thoughts about the unknown
  - Many humans cannot do this, while collection of metal, silicon, and electrons can produce complete ideas about an unknown state if the universe.
-
+ - awareness of the particles in the universe and how they interact can explain any phenomenon. granted there is not something completely abstracted from human's ability to comprehend.
+ - original thought. Original thought is thought that a human has about the real world that is not in the thoughts of other humans that the original thinker is aware of. is original thought as simple as providing a new perspective to a feeling.
+ - feelings cannot be represented by words. feelings can only be communicated by making the other human feel them too.
