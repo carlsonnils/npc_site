@@ -3,21 +3,13 @@ Website for my thoughts.
 
 # Table of Contents
 1. [Enviornment](#enviornment)
-	1. [Python Enviornment](#python-envoirnment)
-	2. [JavaScript Eviornment](#js-enviornment)
-2. [Writing Ideas](#writing-ideas)
+2. [Ideas & Contemplations](#ideas)
 
 ## Eviornment <a name="enviornment"></a>
 
-The python and javascript envoirnments are defined below.
 
-### Python Evoirnment <a id="python-eviornment"></a>
 
-The python env.
-
-### JavaScript Enviornment <a id="js-eviornment"></a>
-
-## Writing Ideas <a name="writing-ideas"></a>
+## Ideas & Contemplations <a name="ideas"></a>
  - Humans need true recognition
  - Everything is connected at the fundamental level
  - Different "Academic Areas" are different ways of trying to understand the same thing
@@ -34,3 +26,4 @@ The python env.
  - feelings cannot be represented by words. feelings can only be communicated by making the other human feel them too.
  - is the the ability to understand multiple perspectives or to quickly drop one thought move to another then back to the furst thought a consequence of deep awareness or is it a capability that some brains have and others do not?
  - romantic relationships. i want someone who understands the world and themsleves. they have to know what they want. they have to be able to understand human wants
+ - having a complete original thought means you have an understanding of what you are thinking about. the only to think about something new is to completely understand what is known (at least within the patricles thst interact with what is bring thought about)
